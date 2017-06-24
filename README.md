@@ -14,4 +14,4 @@ mvn org.apache.tomcat.maven:tomcat7-maven-plugin:run -Dmaven.tomcat.port=9090
 
 ## Para acessar a aplicação
 
-[http://localhost:9090/imcService](http://localhost:9090/imcService)
+[http://localhost:9090/renan-pw](http://localhost:9090/renan-pw)
